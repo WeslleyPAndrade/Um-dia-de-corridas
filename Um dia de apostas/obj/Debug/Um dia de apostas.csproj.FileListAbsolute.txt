@@ -1,0 +1,9 @@
+C:\Users\mayy4\source\repos\Um dia de apostas\Um dia de apostas\obj\Debug\Um dia de apostas.csprojAssemblyReference.cache
+C:\Users\mayy4\source\repos\Um dia de apostas\Um dia de apostas\obj\Debug\Um_dia_de_apostas.Form1.resources
+C:\Users\mayy4\source\repos\Um dia de apostas\Um dia de apostas\obj\Debug\Um_dia_de_apostas.Properties.Resources.resources
+C:\Users\mayy4\source\repos\Um dia de apostas\Um dia de apostas\obj\Debug\Um dia de apostas.csproj.GenerateResource.cache
+C:\Users\mayy4\source\repos\Um dia de apostas\Um dia de apostas\obj\Debug\Um dia de apostas.csproj.CoreCompileInputs.cache
+C:\Users\mayy4\source\repos\Um dia de apostas\Um dia de apostas\bin\Debug\Um dia de apostas.exe
+C:\Users\mayy4\source\repos\Um dia de apostas\Um dia de apostas\bin\Debug\Um dia de apostas.pdb
+C:\Users\mayy4\source\repos\Um dia de apostas\Um dia de apostas\obj\Debug\Um dia de apostas.exe
+C:\Users\mayy4\source\repos\Um dia de apostas\Um dia de apostas\obj\Debug\Um dia de apostas.pdb
